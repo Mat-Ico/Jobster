@@ -1,3 +1,4 @@
+# Jobster
 1. Project Overview
 
 Jobster is a Java-based job matching platform that connects employers and job seekers in a simple, interactive interface. It is designed to provide a smooth job application and posting experience while allowing administrators to manage the system efficiently.
