@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "Khianna",
+      "password": "1",
+      "role": "employer"
+    },
+    {
+      "username": "Mat",
+      "password": "1",
+      "role": "employer"
+    },
+    {
+      "username": "Imee",
+      "password": "1",
+      "role": "employer"
+    },
+    {
+      "username": "Charles",
+      "password": "1",
+      "role": "jobfinder"
+    },
+    {
+      "username": "Janez",
+      "password": "1",
+      "role": "jobfinder"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+.anchor{
+    -fx-background-color: #77CCFF;
+}
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.edit-box{
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.dashboard-button{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30;
+}
+
+.save-button{
+    -fx-background-color: #77CCFF;
+    -fx-background-radius: 30;
+}
+
+.delete-button{
+    -fx-background-color: #EE6B6C;
+    -fx-background-radius: 30;
+}
+
+.cancel-button{
+    -fx-background-color: #808080;
+    -fx-background-radius: 30;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box, rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0, 10.0);
+}

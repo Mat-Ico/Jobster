@@ -1,0 +1,12 @@
+{
+  "JobHistory": [
+    {
+      "username": "Charles",
+      "Title": "Software Engineer",
+      "CompanyName": "Tech Solutions Inc.",
+      "JobLocation": "New York",
+      "Salary": 85000,
+      "Status": "Accepted"
+    }
+  ]
+}

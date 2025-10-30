@@ -1,0 +1,84 @@
+{
+  "Job": [
+    {
+      "Employer": "Khianna",
+      "Title": "Software Engineer",
+      "CompanyName": "Tech Solutions Inc.",
+      "JobLocation": "New York, USA",
+      "MaxApplicants": 1,
+      "Salary": 120000,
+      "Description": "Develop and maintain software applications, collaborate with cross-functional teams, and ensure high-quality code.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Khianna",
+      "Title": "UI/UX Designer",
+      "CompanyName": "Tech Solutions Inc.",
+      "JobLocation": "New York, USA",
+      "MaxApplicants": 1,
+      "Salary": 78000,
+      "Description": "Design intuitive user interfaces, conduct usability testing, and enhance user experience across platforms.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Khianna",
+      "Title": "Data Analyst",
+      "CompanyName": "Tech Solutions Inc.",
+      "JobLocation": "CcKNew York, USA",
+      "MaxApplicants": 29,
+      "Salary": 75000,
+      "Description": "Analyze data sets, generate reports, and provide insights to improve business decisions.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Khianna",
+      "Title": "Cybersecurity Specialist",
+      "CompanyName": "Tech Solutions Inc.",
+      "JobLocation": "New York, USA",
+      "MaxApplicants": 25,
+      "Salary": 90000,
+      "Description": "Implement security measures, monitor threats, and ensure compliance with cybersecurity regulations.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Mat",
+      "Title": "Cloud Engineer",
+      "CompanyName": "CloudTech Inc.",
+      "JobLocation": "Seattle, USA",
+      "MaxApplicants": 40,
+      "Salary": 95000,
+      "Description": "Design, deploy, and manage cloud-based solutions for businesses.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Mat",
+      "Title": "IT Support Specialist",
+      "CompanyName": "CloudTech Inc.",
+      "JobLocation": "Seattle, USA",
+      "MaxApplicants": 35,
+      "Salary": 65000,
+      "Description": "Provide technical support, troubleshoot issues, and assist end-users with IT-related problems.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Imee",
+      "Title": "Database Administrator",
+      "CompanyName": "DataSecure Corp",
+      "JobLocation": "Houston, USA",
+      "MaxApplicants": 25,
+      "Salary": 87000,
+      "Description": "Manage and optimize databases, ensure data security, and support data-related applications.",
+      "Status": "Active"
+    },
+    {
+      "Employer": "Imee",
+      "Title": "UI/UX Designer",
+      "CompanyName": "DataSecure Corp",
+      "JobLocation": "Houston, USA",
+      "MaxApplicants": 40,
+      "Salary": 78000,
+      "Description": "Design intuitive user interfaces, conduct usability testing, and enhance user experience across platforms.",
+      "Status": "Active"
+    }
+  ]
+}
